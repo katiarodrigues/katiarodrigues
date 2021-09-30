@@ -6,8 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/katiarodrigues">
-  <img height="190em" align="left" src="https://github-readme-stats.vercel.app/api?username=katiarodrigues&show_icons=true&theme= dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiarodrigues&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api?username=katiarodrigues&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiarodrigues&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
   <div style="display: inline_block"><br>
