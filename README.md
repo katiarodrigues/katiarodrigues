@@ -1,13 +1,13 @@
 ### Ola! Eu sou a Katia 👋
 
 
-- 🌱 Estudando HTML, CSS, Javascript e Ruby
+- 🌱 Estudando HTML, CSS, Javascript, Ruby e C#
 - 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/ellen2121">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=katiarodrigues&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiarodrigues&layout=compact&langs_count=7&theme=cobalt" />
+  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiarodrigues&layout=compact&langs_count=7&theme=cobalt" />
 </div>
 
 </a>
@@ -18,6 +18,12 @@
   <img align="center" alt="katia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="katia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="katia-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+   <img align="center" alt="katia-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
+ 
+ 
+  
+    
+  
     
    ##
     
