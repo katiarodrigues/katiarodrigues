@@ -1,7 +1,7 @@
 ### Ola! Eu sou a Katia 👋
 
 
-- 🌱 Estudando HTML, CSS, Javascript e C#
+- 🌱 Estudando Swift
 - 😄 Pronouns: ela/dela
 
 <div align="center">
@@ -14,10 +14,7 @@
 
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="katia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="katia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="katia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="katia-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
+  <img align="center" alt="katia-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-
  
  
   
